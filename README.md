@@ -1,1 +1,2 @@
-# Number-Guessing-Game
+# Number-Guessing-
+Random number guessing game using Javascript basics.
